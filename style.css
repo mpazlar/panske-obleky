@@ -59,3 +59,10 @@ h1.site-title span {
   stroke: #000;
   stroke-width: 2;
 }
+
+.circle {
+  width: 2.5rem;
+}
+
+.circle__cervena {
+}
