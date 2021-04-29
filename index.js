@@ -26,5 +26,6 @@ kosileModra.addEventListener('click', function () {
 });
 
 objednat.addEventListener('click', function () {
-  productColors.innerHTML = `<p>Objednáno</p>`;
+  productColors.innerHTML = `<p>Objednáno</p>
+  `;
 });
