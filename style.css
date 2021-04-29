@@ -81,3 +81,21 @@ h1.site-title span {
 .modra__button {
   background-color: #087596;
 }
+
+.barvy {
+  display: flex;
+}
+
+.product__colors {
+  display: flex;
+}
+
+.kosile {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+}
+
+.objednat {
+  flex-grow: 0;
+}

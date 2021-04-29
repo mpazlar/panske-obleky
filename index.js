@@ -14,15 +14,19 @@ const productColors = document.querySelector('.product__colors');
 
 kosileBila.addEventListener('click', function () {
   kosile.style = 'fill: #ffffff';
+  console.log('mám bílou košili');
 });
 kosileCerna.addEventListener('click', function () {
   kosile.style = 'fill: #242222';
+  console.log('mám černou košili');
 });
 kosileCervena.addEventListener('click', function () {
   kosile.style = 'fill: #a32424';
+  console.log('mám červenou košili');
 });
 kosileModra.addEventListener('click', function () {
   kosile.style = 'fill: #087596';
+  console.log('mám modrou košili');
 });
 
 objednat.addEventListener('click', function () {
