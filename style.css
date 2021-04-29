@@ -64,5 +64,20 @@ h1.site-title span {
   width: 2.5rem;
 }
 
-.circle__cervena {
+.button {
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+}
+
+.cerna__button {
+  background-color: #242222;
+}
+
+.cervena__button {
+  background-color: #a32424;
+}
+
+.modra__button {
+  background-color: #087596;
 }
